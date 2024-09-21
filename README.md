@@ -73,6 +73,10 @@ Video instructions: https://youtu.be/PPxenu7IjGM
 
 # /storefront
 
+### Adicional
+Start reddis server
+`redis-server`
+
 ### local setup
 Video instructions: https://youtu.be/PPxenu7IjGM
 
